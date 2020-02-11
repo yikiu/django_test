@@ -26,7 +26,7 @@ cppimport==18.1.10
 daphne==2.1.0
 dask==0.17.2
 defusedxml==0.5.0
-Django==2.0.4
+Django==2.2.10
 django-authtools==1.6.0
 django-cachalot==1.5.0
 django-celery-beat==1.1.1
