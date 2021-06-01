@@ -105,7 +105,7 @@ Twisted==17.9.0
 txaio==2.9.0
 ujson==1.35
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 vine==1.1.4
 virtualenv==15.2.0
 virtualenv-clone==0.3.0
