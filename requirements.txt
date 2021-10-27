@@ -24,7 +24,7 @@ cookiecutter==1.6.0
 coverage==4.5.1
 cppimport==18.1.10
 daphne==2.1.0
-dask==0.17.2
+dask==2021.10.0
 defusedxml==0.5.0
 Django==2.0.4
 django-authtools==1.6.0
