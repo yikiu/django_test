@@ -101,7 +101,7 @@ six==1.11.0
 sqlparse==0.2.4
 tornado==5.0.1
 tox==3.0.0
-Twisted==17.9.0
+Twisted==22.2.0
 txaio==2.9.0
 ujson==1.35
 Unidecode==1.0.22
