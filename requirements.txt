@@ -20,7 +20,7 @@ chardet==3.0.4
 click==6.7
 colorama==0.3.9
 constantly==15.1.0
-cookiecutter==1.6.0
+cookiecutter==2.1.1
 coverage==4.5.1
 cppimport==18.1.10
 daphne==2.1.0
