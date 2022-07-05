@@ -103,7 +103,7 @@ tornado==5.0.1
 tox==3.0.0
 Twisted==17.9.0
 txaio==2.9.0
-ujson==1.35
+ujson==5.4.0
 Unidecode==1.0.22
 urllib3==1.22
 vine==1.1.4
